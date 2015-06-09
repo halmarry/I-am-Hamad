@@ -1,3 +1,3 @@
 # I-am-Hamad
 This is my first repository
-I love :coffee:, :pizza:, and :dancer:,
+I love :tea:, :pizza:, and :dancer:,
